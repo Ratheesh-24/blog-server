@@ -25,9 +25,8 @@
     "nodemon": "^2.0.15"
   },
   "scripts": {
-    "start": "node server/server",
-    "server": "nodemon server/server",
-    "dev": "npm run server"
+    "start": "node server/server.js",
+    "dev": "nodemon server/server.js"
     
   },
   "author": "ratheesh",
